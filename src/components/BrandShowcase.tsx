@@ -19,6 +19,10 @@ const BrandShowcase = () => {
               ></div>
             </div>
 
+            <div className="text-terracotta font-open-sans text-base italic font-medium">
+              магазин хорошей еды
+            </div>
+
             <p className="text-deep-navy/80 text-lg leading-relaxed max-w-2xl mx-auto">
               Современный и элегантный дизайн, который передает качество,
               свежесть и заботу о клиентах. Теплая цветовая палитра создает

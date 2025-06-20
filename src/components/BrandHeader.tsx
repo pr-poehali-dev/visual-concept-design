@@ -8,9 +8,15 @@ const BrandHeader = () => {
           <Icon name="ShoppingBasket" size={32} className="text-terracotta" />
         </div>
 
-        <h1 className="font-montserrat text-5xl font-bold text-deep-navy mb-4">
+        <h1 className="font-montserrat text-5xl font-bold text-deep-navy mb-3">
           Петровская Лавка
         </h1>
+
+        <div className="mb-6">
+          <span className="text-terracotta font-open-sans text-lg font-medium italic">
+            магазин хорошей еды
+          </span>
+        </div>
 
         <p className="text-xl text-deep-navy/80 font-open-sans max-w-2xl mx-auto leading-relaxed">
           Современный брендинг для продуктового магазина — где традиции
