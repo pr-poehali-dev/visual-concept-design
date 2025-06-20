@@ -116,4 +116,14 @@
       0 10px 25px -5px rgba(210, 105, 30, 0.1),
       0 4px 6px -2px rgba(210, 105, 30, 0.05);
   }
+
+  .bg-wood-pattern {
+    background-image: repeating-linear-gradient(
+      45deg,
+      rgba(139, 69, 19, 0.1) 0px,
+      rgba(139, 69, 19, 0.1) 2px,
+      transparent 2px,
+      transparent 8px
+    );
+  }
 }
